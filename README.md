@@ -18,4 +18,12 @@ Here are some ideas to get you started:
 
 ![Foto de perfil](https://i.pinimg.com/474x/0f/19/c3/0f19c3753d601c9d94bdad7ac8cd7643.jpg?nii=t)
 [Mi Github](https://github.com/DacevX)
-[Github stats]
+![Logo](https://img.shields.io/badge/github-repo-blue?logo=github)
+![Github stats]
+
+<p align="center"> 
+<img src="https://i.pinimg.com/474x/0f/19/c3/0f19c3753d601c9d94bdad7ac8cd7643.jpg?nii=t" width="200">
+</p>
+<img src="https://komarev.com/ghpvc/?username=TU_USUARIO&label=Profile%20views&color=00D4FF&style=plastic">
+<img src="https://raw.githubusercontent.com/TU_USUARIO/TU_USUARIO/output/github-contribution-grid-snake.svg">
+
