@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<!--
+
 **DacevX/DacevX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,4 +13,9 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
+
+
+![Foto de perfil](https://i.pinimg.com/474x/0f/19/c3/0f19c3753d601c9d94bdad7ac8cd7643.jpg?nii=t)
+[Mi Github](https://github.com/DacevX)
+[Github stats]
