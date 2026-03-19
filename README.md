@@ -2,7 +2,7 @@
 
 ###
 
-<img align="left" height="150" src="../DacevX/img/photo_2025-06-16_20-21-58.jpg"  />
+<img align="left" height="150" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaTdtMWI2aWlyMDVzb3IzZ3ltdGIydzNuNmhvODMyajNkcDFoN2JycSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/78XCFBGOlS6keY1Bil/giphy.gif"  />
 
 ###
 
@@ -65,10 +65,10 @@
 
 ###
 
-<picture>
+<!-- <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DacevX/DacevX/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DacevX/DacevX/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/DacevX/DacevX/output/pacman-contribution-graph.svg">
-</picture>
+</picture> -->
 
 ###
